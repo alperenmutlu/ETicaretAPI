@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "WRmn5eMYkantRpuFTc4ZJohtxXqxqtsh4iEWZqDAfRc=",
+  "Source": "ETicaretAPI.API",
+  "BasePath": "_content/ETicaretAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ETicaretAPI.API\\wwwroot",
+      "Source": "ETicaretAPI.API",
+      "ContentRoot": "F:\\.NETProjects\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\.NETProjects\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\photo-images\\03425069304275.png",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\.NETProjects\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "photo-images/03425069304275.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photo-images\\03425069304275.png"
+    },
+    {
+      "Identity": "F:\\.NETProjects\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\photo-images\\1-drawio.png",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\.NETProjects\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "photo-images/1-drawio.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photo-images\\1-drawio.png"
+    },
+    {
+      "Identity": "F:\\.NETProjects\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\photo-images\\2-drawio.png",
+      "SourceId": "ETicaretAPI.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\.NETProjects\\ETicaretUygulamasi\\ETicaretAPI\\Presentation\\ETicaretAPI.API\\wwwroot\\",
+      "BasePath": "_content/ETicaretAPI.API",
+      "RelativePath": "photo-images/2-drawio.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\photo-images\\2-drawio.png"
+    }
+  ]
+}
