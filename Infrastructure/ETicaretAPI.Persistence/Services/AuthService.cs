@@ -1,4 +1,5 @@
-﻿using ETicaretAPI.Application.Abstractions.Services.Authentications;
+﻿using ETicaretAPI.Application.Abstractions.Services;
+using ETicaretAPI.Application.Abstractions.Services.Authentications;
 using ETicaretAPI.Application.Abstractions.Token;
 using ETicaretAPI.Application.DTOs;
 using ETicaretAPI.Application.Exceptions;
@@ -17,7 +18,7 @@ using System.Threading.Tasks;
 namespace ETicaretAPI.Persistence.Services
 {
     
-    public class AuthService : IExternalAuthentication, IInternalAuthentication
+    public class AuthService : IAuthService
     {
         readonly IConfiguration _configuration;
         readonly UserManager<Domain.Entities.Identity.AppUser> _userManager;
